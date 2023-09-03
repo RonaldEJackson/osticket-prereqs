@@ -243,4 +243,4 @@ Step 14. From the installation files install HeidiSQL
 Success! You have installed osTicket!
 Thank You for reading!
 
-For the the next tutorial in this series go <a href=https://github.com/presicion25/osTicket-Configuration>here</a></h2>
+For the the next tutorial in this series go <a href=https://github.com/RonaldEJackson/osTicket-Configuration>here</a></h2>
